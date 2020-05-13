@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keyhole", "keyhole\keyhole.csproj", "{DBE8885D-0777-465A-88B5-5B9D44FC5D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE8885D-0777-465A-88B5-5B9D44FC5D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE8885D-0777-465A-88B5-5B9D44FC5D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE8885D-0777-465A-88B5-5B9D44FC5D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE8885D-0777-465A-88B5-5B9D44FC5D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDC8F8D-54B7-4382-A5A9-A1923295D84A}
+	EndGlobalSection
+EndGlobal
